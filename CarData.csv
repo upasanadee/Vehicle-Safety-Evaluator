@@ -1,0 +1,6 @@
+Model,Current Speed,Brake Pressure,Tire Pressure,ABS,EBD,ESC,Number of Airbags,Airbag Deployment Force,Friction Coefficient,Stopping Distance,Maximum Impact,Car Mass
+Sedan A,100,362.59,31.91,Yes,Yes,Yes,6,3500,0.8,45,120,1500
+SUV B,100,391.5,33.36,Yes,Yes,Yes,8,4000,0.75,50,140,1800
+Hatchback C,100,333.59,30.46,Yes,Yes,No,4,3000,0.85,40,110,1200
+Coupe D,100,348.08,31.18,Yes,No,Yes,6,3200,0.78,42,115,1400
+Sports E,100,406.02,34.81,Yes,Yes,Yes,2,5000,0.9,38,150,1300
